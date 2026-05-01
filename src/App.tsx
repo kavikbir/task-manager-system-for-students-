@@ -73,7 +73,8 @@ export default function App() {
   };
 
   const handleAdminAuth = (password: string) => {
-    if (password === '8130859152') {
+    const adminPass = import.meta.env.VITE_ADMIN_PASSWORD || '8130859152';
+    if (password === adminPass) {
       setView('admin');
       setShowAdminLogin(false);
     } else {
