@@ -2,7 +2,7 @@
 
 A modern, high-performance team collaboration and task management system built with **React**, **TypeScript**, and **Vite**. It features a robust **Google Sheets backend** via **Google Apps Script** and integrates **Gemini AI** for intelligent nudges and performance feedback.
 
-![Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
+!
 
 ## ✨ Key Features
 
@@ -26,7 +26,7 @@ A modern, high-performance team collaboration and task management system built w
 ### 1. Prerequisites
 -   [Node.js](https://nodejs.org/) (v16 or higher)
 -   A Google account (for Google Sheets and Apps Script)
--   [Gemini API Key](https://aistudio.google.com/app/apikey)
+-   
 
 ### 2. Frontend Setup
 1.  Clone the repository.
@@ -75,4 +75,4 @@ The system operates on a **Sync-and-Score** model:
 
 ---
 
-Developed with ❤️ by [Your Name/Github]
+Developed with ❤️ by kritagya 
